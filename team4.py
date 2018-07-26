@@ -8,7 +8,7 @@
 
 team_name = 'SODAN' # Only 10 chars displayed.
 strategy_name = 'Collude every now and again'
-strategy_description = 'Colludes every 6th round'
+strategy_description = 'Colludes every 6th round, because why do anything else but betray'
     
 def move(my_history, their_history, my_score, their_score):
     ''' Arguments accepted: my_history, their_history are strings.
